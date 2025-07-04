@@ -8,7 +8,6 @@ Software Engineer
 
 * 🌍  I'm based in Cotonou, Benin
 * ✉️  You can contact me at [uhoungbo@gmail.com](mailto:uhoungbo@gmail.com )
-* 🧠  I'm learning Data scientist and microservices architecture
 * 🤝  I'm open to collaborating on I’m looking to collaborate on innovative projects
 
 ### Skills
